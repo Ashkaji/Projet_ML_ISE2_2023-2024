@@ -26,7 +26,6 @@ Remember, after you are done with the project and no longer need the kernel, you
 ```python
 jupyter-kernelspec uninstall venv
 ```
-This way, you can have separate dependencies for the Jupyter notebook and be more organized¹. Let me know if you need further assistance! 😊
 
 Source : conversation avec Bing, 2/6/2024
 (1) Using Jupyter Notebook in Virtual Environment - GeeksforGeeks. https://www.geeksforgeeks.org/using-jupyter-notebook-in-virtual-environment/.
