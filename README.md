@@ -28,8 +28,8 @@ jupyter-kernelspec uninstall venv
 ```
 
 Source : conversation avec Bing, 2/6/2024
-(1) Using Jupyter Notebook in Virtual Environment - GeeksforGeeks. https://www.geeksforgeeks.org/using-jupyter-notebook-in-virtual-environment/.
-(2) How to use Jupyter notebooks in a conda environment?. https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment.
-(3) Using Virtual Environments in Jupyter Notebook and Python. https://janakiev.com/blog/jupyter-virtual-envs/.
-(4) How to use Python Virtual Environments in Jupyter Notebook. https://markbyrne.us/using-python-virtual-environments-in-jupyter-notebook/.
-(5) python - Using virtualenv on Jupyter Notebook - Stack Overflow. https://stackoverflow.com/questions/55448244/using-virtualenv-on-jupyter-notebook.
+- (1) Using Jupyter Notebook in Virtual Environment - GeeksforGeeks. https://www.geeksforgeeks.org/using-jupyter-notebook-in-virtual-environment/.
+- (2) How to use Jupyter notebooks in a conda environment?. https://stackoverflow.com/questions/58068818/how-to-use-jupyter-notebooks-in-a-conda-environment.
+- (3) Using Virtual Environments in Jupyter Notebook and Python. https://janakiev.com/blog/jupyter-virtual-envs/.
+- (4) How to use Python Virtual Environments in Jupyter Notebook. https://markbyrne.us/using-python-virtual-environments-in-jupyter-notebook/.
+- (5) python - Using virtualenv on Jupyter Notebook - Stack Overflow. https://stackoverflow.com/questions/55448244/using-virtualenv-on-jupyter-notebook.
