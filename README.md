@@ -1,4 +1,4 @@
-Sure, here's a step-by-step guide on how to use Jupyter in your local Python environment:
+Step-by-step guide on how to use Jupyter in your local Python environment:
 
 1. **Create a virtual environment**: Navigate to the directory where you want to create your project and run the following command to create a virtual environment¹.
     ```python
