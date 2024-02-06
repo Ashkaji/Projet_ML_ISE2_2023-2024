@@ -1,0 +1,25 @@
+pip install numpy, pandas, scikit-learn, plotly, matplotlib, seaborn, ?imblearn
+tests 
+myproject/
+├── manage.py
+├── myapp/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations/
+│   ├── models.py
+│   ├── serializers.py  # For Django REST framework (optional)
+│   ├── static/
+│   │   └── myapp/   # For custom CSS/JS of your app
+│   ├── templates/
+│   │   └── myapp/
+│   │       └── ...your_templates.html...
+│   └── views.py
+├── data/
+│   ├── raw/           # Store raw data
+│   ├── processed/     # Store processed data for inference
+│   └── models/        # Saved machine learning models
+├── requirements.txt
+├── settings.py
+├── urls.py
+└── ...other_apps...
